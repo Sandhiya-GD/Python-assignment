@@ -37,7 +37,7 @@ The implementation focuses on reliability, error handling, logging, and producti
 ## 🛠️ Installation
 
 ### Prerequisites
-- Python 3.8+
+- google colab
 - pip
 
 ### Install Dependencies
